@@ -1,0 +1,7 @@
+00mkrzesi25102019start
+
+09transaction00type000prio000position009
+09transaction10type100prio100position109
+09transaction20type200prio200position209
+
+00mkrzesi251029end
